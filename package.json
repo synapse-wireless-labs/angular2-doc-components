@@ -1,5 +1,5 @@
 {
-  "name": "@synlabs/doc-components",
+  "name": "synlabs-doc-components",
   "version": "0.0.1",
   "description": "Documentation components for Angular 2",
   "main": "index.js",
