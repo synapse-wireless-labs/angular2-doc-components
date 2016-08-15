@@ -1,0 +1,7 @@
+import { DocComponentsModule } from 'synlabs-doc-components';
+
+@NgModule({
+  imports: [ DocComponentsModule ],
+  ...
+})
+export class AppModule { }
