@@ -1,6 +1,6 @@
 {
   "name": "synlabs-doc-components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Documentation components for Angular 2",
   "main": "index.js",
   "scripts": {
