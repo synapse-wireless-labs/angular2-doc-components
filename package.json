@@ -10,7 +10,7 @@
     "prebuild": "npm run clean",
     "build": "npm run build:cjs && npm run build:esm && npm run build:ts",
     "build:cjs": "ngc -p tsconfig.cjs.json",
-    "build:esm": "ngc",
+    "build:esm": "ngc -p tsconfig.esm.json",
     "build:ts": "cpy 'src/**/*.ts' dist --parents",
     "prepare": "cpy package.json LICENSE CHANGELOG.md README.md dist"
   },

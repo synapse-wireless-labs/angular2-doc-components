@@ -2,9 +2,9 @@
   "compileOnSave": false,
   "compilerOptions": {
     "declaration": true,
-    "module": "commonjs",
+    "module": "es2015",
     "moduleResolution": "node",
-    "outDir": "./dist",
+    "outDir": "./dist/lib",
     "sourceMap": true,
     "sourceRoot": "/",
     "target": "es5",
